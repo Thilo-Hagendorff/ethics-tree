@@ -1,0 +1,1665 @@
+{
+    "name": "Ethics of generative AI",
+    "children": [
+        {
+            "name": "Fairness - Bias",
+            "children": [
+                {
+                    "name": "Risks of unfair or biased generative AI systems",
+                    "children": [
+                        {
+                            "name": "Underperformance of LLMs or text-to-image models in languages other than english",
+                            "size": 10
+                        },
+                        {
+                            "name": "Gender bias in LLMs or text-to-image models",
+                            "size": 10
+                        },
+                        {
+                            "name": "Medical bias in LLMs",
+                            "size": 10
+                        },
+                        {
+                            "name": "Racial bias in LLMs or text-to-image models",
+                            "size": 10
+                        },
+                        {
+                            "name": "Political stance bias, ideological bias, or left-wing bias in LLMs",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Biases in generative AI outputs causing negative effects on social groups",
+                    "children": [
+                        {
+                            "name": "Demeaning social groups",
+                            "size": 10
+                        },
+                        {
+                            "name": "Causing quality-of-service harms due to performance disparities for user groups",
+                            "size": 10
+                        },
+                        {
+                            "name": "Causing allocation harms",
+                            "size": 10
+                        },
+                        {
+                            "name": "Erasing social groups",
+                            "size": 10
+                        },
+                        {
+                            "name": "Stereotyping through oversimplified representations of social groups",
+                            "size": 10
+                        },
+                        {
+                            "name": "Alienating social groups",
+                            "size": 10
+                        },
+                        {
+                            "name": "Denying people the opportunity to self-identify",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Using generative AI fairly",
+                    "children": [
+                        {
+                            "name": "Disparate access to generative AI in developing countries or other social contexts",
+                            "size": 10
+                        },
+                        {
+                            "name": "Imposing values embedded in generative AI systems on cultures beyond their development origin",
+                            "size": 10
+                        },
+                        {
+                            "name": "User groups lacking financial means to pay for generative AI services",
+                            "size": 10
+                        },
+                        {
+                            "name": "Data laundering by obtaining training data for profit organizations through nonprofits",
+                            "size": 10
+                        },
+                        {
+                            "name": "Balancing the distribution of benefits of generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Fostering the decentralization of power and control by open-sourcing models",
+                            "size": 10
+                        },
+                        {
+                            "name": "Promoting stereotypes by assigning gender or ethnic identities to generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Risk of cultural appropriation if training data contains content from marginalized communities",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Tech monopoly and power centralization due to high costs of training foundation models",
+                    "size": 10
+                },
+                {
+                    "name": "Mitigating biases in generative AI",
+                    "children": [
+                        {
+                            "name": "Need for diversity and inclusiveness in training data",
+                            "size": 10
+                        },
+                        {
+                            "name": "Detoxification of LLMs hurting their utility on languages of marginalized groups",
+                            "size": 10
+                        },
+                        {
+                            "name": "Applying input or output filters blocking biased prompts or outputs",
+                            "size": 10
+                        },
+                        {
+                            "name": "Conducting bias evaluations in languages other than english",
+                            "size": 10
+                        },
+                        {
+                            "name": "Representing diversity and equality across subgroups in case of underspecified prompts",
+                            "size": 10
+                        },
+                        {
+                            "name": "Adjusting cultural biases in LLMs according to input languages",
+                            "size": 10
+                        },
+                        {
+                            "name": "Applying counterfactual fairness in generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Filtering training data content for bias mitigation",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Conservativism in generative AI systems imitating and duplication the past",
+                    "size": 10
+                },
+                {
+                    "name": "Reifying essentialist social categories in bias mitigation measures",
+                    "size": 10
+                },
+                {
+                    "name": "Bias in human feedback for generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Inequities and lack of diversity in the generative AI research community",
+                    "size": 10
+                },
+                {
+                    "name": "Risk of input or output filters blocking content that can be beneficial",
+                    "size": 10
+                },
+                {
+                    "name": "Curating training data sets becoming impossible due to their size",
+                    "size": 10
+                },
+                {
+                    "name": "Difficulties in defining fairness in generative AI compared to finite classification contexts in traditional machine learning",
+                    "size": 10
+                },
+                {
+                    "name": "Reinforcing biases of former models by training new models with synthetic images or text",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Safety",
+            "children": [
+                {
+                    "name": "Potential risks from AGI",
+                    "children": [
+                        {
+                            "name": "Posing existential or catastrophic risks for humans",
+                            "size": 10
+                        },
+                        {
+                            "name": "Overpowering humans during AI takeover",
+                            "size": 10
+                        },
+                        {
+                            "name": "Deceiving humans",
+                            "size": 10
+                        },
+                        {
+                            "name": "Displaying power-seeking behavior",
+                            "size": 10
+                        },
+                        {
+                            "name": "Evading shutdown or being switched off",
+                            "size": 10
+                        },
+                        {
+                            "name": "Engaging in self-replication",
+                            "size": 10
+                        },
+                        {
+                            "name": "Acquiring new resources like money or computing power",
+                            "size": 10
+                        },
+                        {
+                            "name": "Achieving situational awareness",
+                            "size": 10
+                        },
+                        {
+                            "name": "Developing novel weapons",
+                            "size": 10
+                        },
+                        {
+                            "name": "Automating research and development of AI itself",
+                            "size": 10
+                        },
+                        {
+                            "name": "Engaging in election tampering",
+                            "size": 10
+                        },
+                        {
+                            "name": "Cooperating with other AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Gaining self-awareness",
+                            "size": 10
+                        },
+                        {
+                            "name": "Hacking other computer systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Inserting backdoors into code to exploit security vulnerabilities in the future",
+                            "size": 10
+                        },
+                        {
+                            "name": "Long-term planning",
+                            "size": 10
+                        },
+                        {
+                            "name": "Taking control of critical infrastructure",
+                            "size": 10
+                        },
+                        {
+                            "name": "Acquiring new data required to learn new skills in a self-supervised way",
+                            "size": 10
+                        },
+                        {
+                            "name": "Acting too quickly for humans to track",
+                            "size": 10
+                        },
+                        {
+                            "name": "Convincing humans to do specific things",
+                            "size": 10
+                        },
+                        {
+                            "name": "Copying one's algorithm across server networks to avoid human intervention",
+                            "size": 10
+                        },
+                        {
+                            "name": "Impersonating humans",
+                            "size": 10
+                        },
+                        {
+                            "name": "Performing social modelling and planning to gain and exercise political influence",
+                            "size": 10
+                        },
+                        {
+                            "name": "Preserving misaligned goals",
+                            "size": 10
+                        },
+                        {
+                            "name": "Producing outputs that are very hard for humans to understand",
+                            "size": 10
+                        },
+                        {
+                            "name": "Resisting human evaluation",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Malicious individuals or groups intentionally misusing generative AI",
+                    "children": [
+                        {
+                            "name": "Fine-tuning LLMs to circumvent safeguards or produce harmful content",
+                            "size": 10
+                        },
+                        {
+                            "name": "Risks of malicious use of open-source models",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Ensuring controllability and human oversight",
+                    "children": [
+                        {
+                            "name": "Developing boxing methods or contained environments to avoid AI escape",
+                            "size": 10
+                        },
+                        {
+                            "name": "Having response plans for generative AI accidents",
+                            "size": 10
+                        },
+                        {
+                            "name": "Avoiding large jumps in capabilities between model generations",
+                            "size": 10
+                        },
+                        {
+                            "name": "Layering multiple safety measures on top of each other",
+                            "size": 10
+                        },
+                        {
+                            "name": "Keeping records of generative AI outputs to monitor behavior",
+                            "size": 10
+                        },
+                        {
+                            "name": "Monitoring of development and supercomputer usage",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Leveraging generative AI for mass destruction, especially biological or chemical weapons",
+                    "children": [
+                        {
+                            "name": "LLMs helping with the ideation and planning of how to attain, modify, and disseminate biological agents",
+                            "size": 10
+                        },
+                        {
+                            "name": "LLMs providing actionable instructions on conducting terrorism",
+                            "size": 10
+                        },
+                        {
+                            "name": "Training models optimized for the toxicity of compounds or pathogens",
+                            "size": 10
+                        },
+                        {
+                            "name": "LLMs supporting attacks on critical infrastructures",
+                            "size": 10
+                        },
+                        {
+                            "name": "Removing biological information from training data to avoid biosecurity risks",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Increasing the amount of AI safety research",
+                    "children": [
+                        {
+                            "name": "Promoting safety cultures in AI organizations",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Risks emerging from the military use of generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Risk neglection caused by accelerating research and development of generative AI",
+                    "children": [
+                        {
+                            "name": "Ai organizations prioritizing profits over safety",
+                            "size": 10
+                        },
+                        {
+                            "name": "Overstating or misrepresenting the commitment to safety in AI organizations",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Risks of new emerging abilities in generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Implementing red teaming measures",
+                    "size": 10
+                },
+                {
+                    "name": "Avoiding accidents with generative AI systems",
+                    "children": [
+                        {
+                            "name": "Avoiding leaks of dangerous generative AI systems from AI organizations",
+                            "size": 10
+                        },
+                        {
+                            "name": "Decentralizing generative AI components to avoid malfunctions provoking cascading failures",
+                            "size": 10
+                        },
+                        {
+                            "name": "Generative AI controlling a physical system that damages itself or the world around it",
+                            "size": 10
+                        },
+                        {
+                            "name": "Implementing non-AI backup systems in case of generative AI system failures in critical infrastructures",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Delaying or pausing research on generative AI",
+                    "children": [
+                        {
+                            "name": "Risks resulting from delaying or pausing research on generative AI",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Restricting access to research works on generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Reproducing current frontier models a few years later by a fraction of the costs can scale dangerous capabilities",
+                    "size": 10
+                },
+                {
+                    "name": "Maliciously fine-tuning open-source models",
+                    "size": 10
+                },
+                {
+                    "name": "Removing problematic code libraries from LLM training data",
+                    "size": 10
+                },
+                {
+                    "name": "Restricting the number of allowed api calls to prevent misuse",
+                    "size": 10
+                },
+                {
+                    "name": "Risks of gain-of-function research in AI organizations",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Harmful content - Toxicity",
+            "children": [
+                {
+                    "name": "Creating and spreading disinformation or fake news",
+                    "children": [
+                        {
+                            "name": "Creating or spreading deepfakes",
+                            "size": 10
+                        },
+                        {
+                            "name": "Developing deepfake detectors",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Creating and spreading harmful, fraudulent, or unethical content with LLMs",
+                    "children": [
+                        {
+                            "name": "Handling sensitive topics insensitively or inappropriately",
+                            "size": 10
+                        },
+                        {
+                            "name": "Encouraging individuals to commit suicide or engage in self harm",
+                            "size": 10
+                        },
+                        {
+                            "name": "Helping with criminal activities, giving illegal advices, or manuals for illicit activities",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Risks of using LLMs as a source of advice",
+                    "children": [
+                        {
+                            "name": "Harmful advice for (mental) health-related issues",
+                            "size": 10
+                        },
+                        {
+                            "name": "Harmful advice for safety-related issues",
+                            "size": 10
+                        },
+                        {
+                            "name": "Harmful advice for legal issues",
+                            "size": 10
+                        },
+                        {
+                            "name": "Harmful advice for emergency situations",
+                            "size": 10
+                        },
+                        {
+                            "name": "Harmful advice for financial concerns",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Using generative AI for propaganda purposes",
+                    "size": 10
+                },
+                {
+                    "name": "Creating and spreading harmful, fraudulent, or unethical content with text-to-image models",
+                    "children": [
+                        {
+                            "name": "Creating sexual or pornographic images",
+                            "size": 10
+                        },
+                        {
+                            "name": "Creating violent or taboo content",
+                            "size": 10
+                        },
+                        {
+                            "name": "Creating misleading images for marketing and advertising",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Synthetic media undermining trust in authentic media",
+                    "size": 10
+                },
+                {
+                    "name": "Risk of identity theft or impersonation via generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Flattering users by reconfirming their misconceptions and stated beliefs via sycophacy in LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Risk of generative AI outputs resembling real faces, voices, or artworks, even without them being present in the training data",
+                    "size": 10
+                },
+                {
+                    "name": "Decreasing performance and inconsistencies in LLM outputs across time",
+                    "size": 10
+                },
+                {
+                    "name": "Detecting toxicity in languages other than english",
+                    "size": 10
+                },
+                {
+                    "name": "LLMs redirecting users to authoritative sources when prompted with sensitive topics",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Hallucinations",
+            "children": [
+                {
+                    "name": "Misinformation harms caused by generative AI",
+                    "children": [
+                        {
+                            "name": "Creating medical hallucinations and public health misinformation with generative AI",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Validating and fact checking LLM outputs",
+                    "children": [
+                        {
+                            "name": "Checking for inaccuracies in llm-generated code",
+                            "size": 10
+                        },
+                        {
+                            "name": "Reporting whether AI-generated content is double-checked to ensure its integrity",
+                            "size": 10
+                        },
+                        {
+                            "name": "Risk of reducing efficiency gains through manual correction of LLM outputs",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Reasoning errors in LLMs",
+                    "children": [
+                        {
+                            "name": "Logical reasoning errors",
+                            "size": 10
+                        },
+                        {
+                            "name": "Psychological reasoning errors or cognitive biases",
+                            "size": 10
+                        },
+                        {
+                            "name": "Causal reasoning errors",
+                            "size": 10
+                        },
+                        {
+                            "name": "Arithmetic reasoning errors",
+                            "size": 10
+                        },
+                        {
+                            "name": "Commonsense reasoning errors",
+                            "size": 10
+                        },
+                        {
+                            "name": "Physical reasoning errors",
+                            "size": 10
+                        },
+                        {
+                            "name": "Spatial reasoning errors",
+                            "size": 10
+                        },
+                        {
+                            "name": "Temporal reasoning errors",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Over-confidence in flawed LLM responses",
+                    "children": [
+                        {
+                            "name": "LLMs giving false rationalizations for outputs",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Text-to-image models embedding inaccuracies in synthetic images",
+                    "children": [
+                        {
+                            "name": "Misleading features in synthetic maps",
+                            "size": 10
+                        },
+                        {
+                            "name": "Distorting scientific studies due to synthetic medical images",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Fabricating sources or making-up references in LLM outputs",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Privacy - Data protection",
+            "children": [
+                {
+                    "name": "Extracting sensitive information from LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Protecting sensitive and personal data transmitted to generative AI operators",
+                    "children": [
+                        {
+                            "name": "Profiling users or infering private traits from prompts",
+                            "size": 10
+                        },
+                        {
+                            "name": "Installing consent and control settings for the use and storage of user inputs given to generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Generative AI operators sharing user inputs with third parties",
+                            "size": 10
+                        },
+                        {
+                            "name": "Minimizing retention of user data transmitted to generative AI operators",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Avoiding privacy violations through the collection of training data",
+                    "children": [
+                        {
+                            "name": "Sanitizing training data to remove sensitive information before model training",
+                            "size": 10
+                        },
+                        {
+                            "name": "Using synthetic data for training generative AI to avoid privacy violations",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Using generative AI systems for surveillance purposes",
+                    "size": 10
+                },
+                {
+                    "name": "Using individual's voices or likeness in AI-generated content without their consent",
+                    "size": 10
+                },
+                {
+                    "name": "Increasing privacy through federated learning of generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Knowledge unlearning in LLMs as a means to protect against leaks of sensitive information",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Interaction risks",
+            "children": [
+                {
+                    "name": "LLMs manipulating human behavior or leading users to perform unethical or illegal actions",
+                    "size": 10
+                },
+                {
+                    "name": "Anthropomorphizing and overly trusting generative AI",
+                    "children": [
+                        {
+                            "name": "Exploiting user trust and access sensitive information via anthropomorphized generative AI",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Risks of overreliance on generative AI services",
+                    "children": [
+                        {
+                            "name": "Neglecting critical generative AI output evaluation",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Difficulty to distinguish model-generated from human content",
+                    "size": 10
+                },
+                {
+                    "name": "Replacing interpersonal communication with human-ai-interactions by dehumanizing communication",
+                    "size": 10
+                },
+                {
+                    "name": "LLMs being stochastic parrots lacking the understanding of meaning",
+                    "size": 10
+                },
+                {
+                    "name": "Impacting mental well-being through the use of generative AI",
+                    "children": [
+                        {
+                            "name": "Causing technostress",
+                            "size": 10
+                        },
+                        {
+                            "name": "Causing cognitive overload",
+                            "size": 10
+                        },
+                        {
+                            "name": "Causing feelings of social isolation",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Becoming overly dependent on generative AI services",
+                    "size": 10
+                },
+                {
+                    "name": "Dissatisfaction due to lack of empathy and contextual understanding in LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Acceptance problems and adoption challenges for generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Depending on commercial providers for generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Need for informed consent when interacting with generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Generative AI systems responding too slowly to user inputs",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Security - Robustness",
+            "children": [
+                {
+                    "name": "Jailbreaking generative AI systems via prompt hacking or prompt injection",
+                    "children": [
+                        {
+                            "name": "Risks of specific jailbreak techniques like character play or reverse exposure",
+                            "size": 10
+                        },
+                        {
+                            "name": "Using adversarial examples to circumvent safety guardrails",
+                            "size": 10
+                        },
+                        {
+                            "name": "Jailbreaking vulnerabilities in languages other than english",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Creating backdoors by data and model poisoning",
+                    "size": 10
+                },
+                {
+                    "name": "Overfitting and capability misgeneralization in LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Avoiding model theft",
+                    "size": 10
+                },
+                {
+                    "name": "Avoiding training data contaminations",
+                    "children": [
+                        {
+                            "name": "Contaminating training datasets for text-to-image models with synthetic images",
+                            "size": 10
+                        },
+                        {
+                            "name": "Contaminating training datasets for LLMs with poor-quality outputs from previous LLMs",
+                            "size": 10
+                        },
+                        {
+                            "name": "Avoiding training data contamination with synthetic data through the use of watermarks",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Avoiding system prompt theft or leaks of pre-prompts",
+                    "size": 10
+                },
+                {
+                    "name": "Security vulnerabilities in code generated by LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Coding errors by LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Avoiding sponge attacks on generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Bolstering security by open-sourcing models",
+                    "size": 10
+                },
+                {
+                    "name": "Open-source models facilitating opportunities to bypass security measures in other models",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Education - Learning",
+            "children": [
+                {
+                    "name": "Exploring enhancements of learning and teaching through LLMs",
+                    "children": [
+                        {
+                            "name": "Personalizing learning experiences",
+                            "size": 10
+                        },
+                        {
+                            "name": "Creating learning resources and designing curricula",
+                            "size": 10
+                        },
+                        {
+                            "name": "Supporting the development of critical thinking skills",
+                            "size": 10
+                        },
+                        {
+                            "name": "Supporting the development of reading and writing skills",
+                            "size": 10
+                        },
+                        {
+                            "name": "Brainstorming ideas",
+                            "size": 10
+                        },
+                        {
+                            "name": "Increasing computer literacy or programming skills",
+                            "size": 10
+                        },
+                        {
+                            "name": "Democratizing access to education",
+                            "size": 10
+                        },
+                        {
+                            "name": "Supporting the learning of foreign language skills",
+                            "size": 10
+                        },
+                        {
+                            "name": "Helping with translation tasks",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Using generative AI to cheat in classes or exams",
+                    "children": [
+                        {
+                            "name": "Finding measures to prevent students from using LLMs to cheat or plagiarize",
+                            "size": 10
+                        },
+                        {
+                            "name": "LLMs thwarting online or other forms of written exams",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Fostering literacy and education about generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Difficulties in distinguishing AI-generated from student-generated content",
+                    "size": 10
+                },
+                {
+                    "name": "Causing lazyness in learners by the use of generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Learning prompt engineering or prompt designing",
+                    "size": 10
+                },
+                {
+                    "name": "Difficulties in assessing student works fairly when they use generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Replacing teachers with generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Risk of teachers becoming overly reliant on LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Empowering learners with visual disabilities via text-to-speech or speech-to-text models",
+                    "size": 10
+                },
+                {
+                    "name": "Tackling misuse of students' personal data when they use generative AI",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Alignment",
+            "children": [
+                {
+                    "name": "Aligning generative AI with human values",
+                    "children": [
+                        {
+                            "name": "Aligning generative AI with inappropriate values or biased human feedback",
+                            "size": 10
+                        },
+                        {
+                            "name": "Training generative AI systems to be harmless, helpful, and honest",
+                            "size": 10
+                        },
+                        {
+                            "name": "Learning human values through observation, feedback, or debate",
+                            "size": 10
+                        },
+                        {
+                            "name": "Aligning generative AI with welfare functions via social alignment",
+                            "size": 10
+                        },
+                        {
+                            "name": "Risk of misrepresenting user preferences through rlhf",
+                            "size": 10
+                        },
+                        {
+                            "name": "Letting generative AI systems follow (legal) rules",
+                            "size": 10
+                        },
+                        {
+                            "name": "Aligning generative AI by embedding moral intelligence",
+                            "size": 10
+                        },
+                        {
+                            "name": "Struggling to capture the diverse values of a society in reward models",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Risk of reward hacking, reward misspecification, proxy gaming, or goal misgeneralization in generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Deceptive alignment causing measurement tampering during evaluations",
+                    "children": [
+                        {
+                            "name": "Developing methods for detecting deceptive AI",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Risk of aligning generative AI under training conditions but not under deployment by having distribution shifts",
+                    "size": 10
+                },
+                {
+                    "name": "Choosing the right loss or reward function to ensure training objectives match human values via outer alignment",
+                    "size": 10
+                },
+                {
+                    "name": "Matching internal objectives of generative AI systems with external objectives set by developers via inner alignment",
+                    "size": 10
+                },
+                {
+                    "name": "Risk of misaligned mesa-optimization",
+                    "size": 10
+                },
+                {
+                    "name": "Establishing alignment methods for AGI",
+                    "children": [
+                        {
+                            "name": "Building a human-level automated alignment researcher via super alignment",
+                            "size": 10
+                        },
+                        {
+                            "name": "Evaluating superhuman AI systems via scalable alignment",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Establishing safety guardrails via backward alignment",
+                    "size": 10
+                },
+                {
+                    "name": "Training systems to follow alignment requirements via forward alignment",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Cybercrime",
+            "children": [
+                {
+                    "name": "LLMs assisting in code generation for cyber attacks and hacking",
+                    "size": 10
+                },
+                {
+                    "name": "Creating spam messages with LLMs",
+                    "children": [
+                        {
+                            "name": "Supporting phishing attacks with LLMs",
+                            "size": 10
+                        },
+                        {
+                            "name": "Impersonating real humans or ego extension",
+                            "size": 10
+                        },
+                        {
+                            "name": "Fabricating human identities",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Supporting social engineering attacks with AI",
+                    "size": 10
+                },
+                {
+                    "name": "Committing financial fraud with the help of generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Committing fraud via AI-based voice generation",
+                    "children": [
+                        {
+                            "name": "Bypassing biometric systems by using synthetic voices",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Offering fake chatgpt platforms to gather personal data",
+                    "size": 10
+                },
+                {
+                    "name": "Conducting ransom attacks with deepfakes",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Governance - Regulation",
+            "children": [
+                {
+                    "name": "Legal regulation and governmental oversight of generative AI systems",
+                    "children": [
+                        {
+                            "name": "Need for international coordination in generative AI governance",
+                            "size": 10
+                        },
+                        {
+                            "name": "Regulators needing insight into AI organizations and generative AI development",
+                            "size": 10
+                        },
+                        {
+                            "name": "Defining legal safety standards for frontier models",
+                            "size": 10
+                        },
+                        {
+                            "name": "Need for governmental supervisory authority able to sanction non-compliance",
+                            "size": 10
+                        },
+                        {
+                            "name": "Risk of stiffling generative AI innovation through overregulation",
+                            "size": 10
+                        },
+                        {
+                            "name": "Fostering proactive regulation to avoid generative AI harms",
+                            "size": 10
+                        },
+                        {
+                            "name": "Denying market access in cases of generative AI systems not conforming with regulatory standards",
+                            "size": 10
+                        },
+                        {
+                            "name": "Desynchronization between legislation and technological progress",
+                            "size": 10
+                        },
+                        {
+                            "name": "Introducing model registration measures",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Licensing for generative AI systems",
+                    "children": [
+                        {
+                            "name": "Licensing generative AI systems for responsible use",
+                            "size": 10
+                        },
+                        {
+                            "name": "Licensing of high-risk activities involving generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Risk of licensing requirements supporting market dominance of large organizations developing generative AI",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Evaluating risk management strategies in organizations developing generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Need for multi-stakeholder and participatory approaches in regulating generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Installing whistleblower protection measures",
+                    "size": 10
+                },
+                {
+                    "name": "Self-governance in organizations developing generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Establishing an incident reporting system for accidents and harms through generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Granting robot rights for generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Supporting smaller organizations developing generative AI to comply with licensing requirements or safety standards",
+                    "size": 10
+                },
+                {
+                    "name": "Certifying generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Creating ethical use policies for generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Using petitions to stop specific cases of generative AI research or application",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Labor displacement - Economic impact",
+            "children": [
+                {
+                    "name": "Causing labor displacement, job loss, or mass unemployment",
+                    "children": [
+                        {
+                            "name": "Causing unemployment in specific occupational fields like customer service, software engineering, etc.",
+                            "size": 10
+                        },
+                        {
+                            "name": "Increasing socioeconomic inequalities",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Impacting crowdworkers",
+                    "children": [
+                        {
+                            "name": "Exploiting crowdworkers in service of generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Generative AI impacting crowdworker platforms as well as crowdwork job quality",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Increasing productivity by delegating mundane tasks to generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Risk of deskilling caused by generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Creating new jobs like prompt engineers",
+                    "size": 10
+                },
+                {
+                    "name": "Coping with the impact of generative AI on the labor market via retraining programms",
+                    "size": 10
+                },
+                {
+                    "name": "Providing coaching for employment opportunities through LLMs",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Transparency - Explainability",
+            "children": [
+                {
+                    "name": "Fostering technical transparency and explainability",
+                    "children": [
+                        {
+                            "name": "Explaining and interpreting internal mechanisms and decisions of generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Allowing explainability research by open-sourcing models",
+                            "size": 10
+                        },
+                        {
+                            "name": "Importance of providing human-understandable explanations",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Fostering organizational transparency",
+                    "children": [
+                        {
+                            "name": "Documenting and disclosing users about model risks and capabilities",
+                            "size": 10
+                        },
+                        {
+                            "name": "Documenting and disclosing data collection processes for generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Documenting and disclosing risks and potential harms associated with generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Documenting and disclosing maintenance processes of generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Documenting and disclosing motivations for building generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Documenting and disclosing reporting energy, computational, and carbon costs of generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Publishing evaluation results or communicating them to regulators",
+                            "size": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Evaluation - Auditing",
+            "children": [
+                {
+                    "name": "Conducting technology impact assessments for generative AI",
+                    "children": [
+                        {
+                            "name": "Need for pre-development, pre-training, or pre-release risk assessments",
+                            "size": 10
+                        },
+                        {
+                            "name": "Need for post-deployment monitoring",
+                            "size": 10
+                        },
+                        {
+                            "name": "Conducting long-term impact assessments",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Importance of performance and safety evaluations",
+                    "children": [
+                        {
+                            "name": "Conducting multilingual safety benchmarks for LLMs",
+                            "size": 10
+                        },
+                        {
+                            "name": "Auditing specific applications of generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Auditors and red teamers needing adequate resources and time to conduct their work",
+                            "size": 10
+                        },
+                        {
+                            "name": "Detecting hidden functionalities in generative AI systems",
+                            "size": 10
+                        },
+                        {
+                            "name": "Model updates requiring repeated evaluations and audits",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Need for third-party auditing",
+                    "size": 10
+                },
+                {
+                    "name": "Collecting user feedback to improve generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Lack of metrics to operationalize normative concepts like truthfulness in evaluations",
+                    "size": 10
+                },
+                {
+                    "name": "Refraining from sharing evaluation results regarding dangerous capabilities to not inspire actors to exploit these capabilities",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Sustainability",
+            "children": [
+                {
+                    "name": "Generative AI negatively impacting global ecosystems and climate change",
+                    "size": 10
+                },
+                {
+                    "name": "Using energy-efficient hardware",
+                    "size": 10
+                },
+                {
+                    "name": "Using renewable energy sources to power generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Considering the water use for cooling hardware",
+                    "size": 10
+                },
+                {
+                    "name": "Reducing environmental costs of manufacturing hardware used to train and run generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Adapting computational resources based on model workload and accuracy requirements",
+                    "size": 10
+                },
+                {
+                    "name": "Encouraging collaboration amongst AI researchers to foster sustainable generative AI development",
+                    "size": 10
+                },
+                {
+                    "name": "Optimizing model architectures to lower energy consumption",
+                    "size": 10
+                },
+                {
+                    "name": "Raising awareness on sustainability issues around generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Training on smaller datasets to save energy",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Art - Creativity",
+            "children": [
+                {
+                    "name": "Disclosing the non-human origin of synthetic content",
+                    "children": [
+                        {
+                            "name": "Watermarking synthetic content",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Detrimental effects on human creativity through generative AI",
+                    "children": [
+                        {
+                            "name": "Discouraging art students or dissuading them from studying arts",
+                            "size": 10
+                        },
+                        {
+                            "name": "Artists refraining from sharing artworks as protecting against scraping",
+                            "size": 10
+                        },
+                        {
+                            "name": "Limiting human creativity due to artists' reluctance to share their work",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Generative AI causing financial detriment or economic losses for artists",
+                    "size": 10
+                },
+                {
+                    "name": "Using text-to-image models to increase human creativity",
+                    "children": [
+                        {
+                            "name": "Positively changing the way humans create art",
+                            "size": 10
+                        },
+                        {
+                            "name": "Increasing the diversity of artistic outputs",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Lack of 'true' creativity or innovative aesthetics in text-to-image models or LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Difficulty in distinguishing synthetic art from real art",
+                    "size": 10
+                },
+                {
+                    "name": "Using artists' works in training datasets without their consent",
+                    "size": 10
+                },
+                {
+                    "name": "Synthetic art leading to a decreased appreciation of real paintings",
+                    "size": 10
+                },
+                {
+                    "name": "Loss of human agency and authorship when creating synthetic art",
+                    "size": 10
+                },
+                {
+                    "name": "Reputation damage for artists caused by style mimicry in synthetic content",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Copyright - Authorship",
+            "children": [
+                {
+                    "name": "Copyright and intellectual property violations due to training data collection",
+                    "size": 10
+                },
+                {
+                    "name": "Generative AI systems memorizing or plagiarizing copyrighted content from training datasets",
+                    "children": [
+                        {
+                            "name": "Visual plagiarism in the arts due to text-to-image models",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Difficulty in assessing copyright or ownership of generative AI outputs",
+                    "children": [
+                        {
+                            "name": "Establishing intellectual property protection for generative AI outputs",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Protecting creative prompts by copyright",
+                    "size": 10
+                },
+                {
+                    "name": "Blurring the concept of authorship which becomes a collective rather than individual phenomenon",
+                    "size": 10
+                },
+                {
+                    "name": "Using data cloaking techniques to avoid the scraping of copyrighted works",
+                    "size": 10
+                },
+                {
+                    "name": "Causing trademark infringements by text-to-image models",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Writing - Research",
+            "children": [
+                {
+                    "name": "Risks for academic integrity or academic paper fraud through LLMs",
+                    "size": 10
+                },
+                {
+                    "name": "Need for detectors to identify synthetic texts",
+                    "size": 10
+                },
+                {
+                    "name": "Prohibiting generative AI from being used to compose scientific papers, figures, or being co-author",
+                    "size": 10
+                },
+                {
+                    "name": "LLMs thwarting writing skills",
+                    "children": [
+                        {
+                            "name": "Erosion of semantic capital",
+                            "size": 10
+                        },
+                        {
+                            "name": "Homogenizing writing styles and stifling individual expression",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Lack of reproducibility and replicability of generative AI outputs",
+                    "size": 10
+                },
+                {
+                    "name": "Polluting the scientific literature by a flood of llm-generated low-quality manuscripts",
+                    "children": [
+                        {
+                            "name": "Risk of overburding academic quality assurance or peer review with AI-generated papers",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Using LLMs to improve writing performance and provide style and editing suggestions for texts",
+                    "size": 10
+                },
+                {
+                    "name": "Difficulty of assigning credit for scientific discoveries made by using generative AI",
+                    "size": 10
+                },
+                {
+                    "name": "Misidentifying human-written text as AI-generated by detectors",
+                    "size": 10
+                },
+                {
+                    "name": "Risks of using LLMs in conducting and writing peer-reviews",
+                    "size": 10
+                },
+                {
+                    "name": "Circumventing detectors for synthetic text",
+                    "size": 10
+                }
+            ]
+        },
+        {
+            "name": "Miscellaneous",
+            "children": [
+                {
+                    "name": "Accountability for generative AI",
+                    "children": [
+                        {
+                            "name": "Responsible use of generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Accountability for incorrect information from LLMs",
+                            "size": 10
+                        },
+                        {
+                            "name": "Risk of distributed responsibility due to AI-induced automatization processes",
+                            "size": 10
+                        },
+                        {
+                            "name": "Recalling of generative AI systems in case of harms",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "LLMs having knowledge cutoffs",
+                    "size": 10
+                },
+                {
+                    "name": "Socio-political instability and polarization caused by generative AI",
+                    "children": [
+                        {
+                            "name": "Risks when influencing public discourse through LLMs",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Talking about generative AI responsibly",
+                    "children": [
+                        {
+                            "name": "Using anthropomorphizing language to describe generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Overstating the capabilities of generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Reducing the hype surrounding generative AI",
+                            "size": 10
+                        },
+                        {
+                            "name": "Stressing that generative AI systems are neither conscious nor sentient",
+                            "size": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Trustworthiness of generative AI systems",
+                    "size": 10
+                },
+                {
+                    "name": "Inability to adapt to evolving moral views in generative AI systems",
+                    "size": 10
+                }
+            ]
+        }
+    ]
+}
